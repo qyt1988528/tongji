@@ -1,0 +1,1357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7beb5fd6-eb43-4981-b3c1-386f9956db45" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/css/bg.gif" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/css/bg.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/.gitignore" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/.htaccess" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/1222.json" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/1222.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/CachedObjectStorage/APC.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/CachedObjectStorage/APC.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Abstract.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Abstract.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Cell/AdvancedValueBinder.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Cell/AdvancedValueBinder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Style/Alignment.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Style/Alignment.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Alnum.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Alnum.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Alpha.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Alpha.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Hostname/At.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Hostname/At.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Worksheet/AutoFilter.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Worksheet/AutoFilter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Autoloader.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Autoloader.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/Excel5/BIFFwriter.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/Excel5/BIFFwriter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/Escher/DggContainer/BstoreContainer/BSE.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/Escher/DggContainer/BstoreContainer/BSE.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Barcode.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Barcode.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Worksheet/BaseDrawing.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Worksheet/BaseDrawing.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Between.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Between.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/Escher/DggContainer/BstoreContainer/BSE/Blip.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/Escher/DggContainer/BstoreContainer/BSE/Blip.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Style/Border.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Style/Border.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Style/Borders.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Style/Borders.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/Escher/DggContainer/BstoreContainer.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/Escher/DggContainer/BstoreContainer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/JAMA/CHANGELOG.TXT" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/JAMA/CHANGELOG.TXT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Reader/CSV.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Reader/CSV.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/CSV.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/CSV.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/CachedObjectStorage/CacheBase.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/CachedObjectStorage/CacheBase.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/CachedObjectStorageFactory.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/CachedObjectStorageFactory.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Calculation.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Calculation.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Callback.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Callback.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Ccnum.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Ccnum.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Cell.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Cell.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Worksheet/CellIterator.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Worksheet/CellIterator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Hostname/Ch.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Hostname/Ch.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/OLE/ChainedBlockStream.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/OLE/ChainedBlockStream.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Chart.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Chart.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Reader/Excel2007/Chart.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Reader/Excel2007/Chart.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/Excel2007/Chart.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/Excel2007/Chart.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/JAMA/CholeskyDecomposition.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/JAMA/CholeskyDecomposition.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Http/Client.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Http/Client.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/CodePage.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/CodePage.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Style/Color.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Style/Color.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Worksheet/AutoFilter/Column.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Worksheet/AutoFilter/Column.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Worksheet/ColumnDimension.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Worksheet/ColumnDimension.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Comment.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Comment.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/Excel2007/Comments.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/Excel2007/Comments.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Style/Conditional.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Style/Conditional.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/models/ContactForm.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/models/ContactForm.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/Excel2007/ContentTypes.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/Excel2007/ContentTypes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/Controller.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/Controller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Http/Cookie.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Http/Cookie.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Http/CookieJar.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Http/CookieJar.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/PDF/Core.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/PDF/Core.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/File/Count.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/File/Count.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/commands/CrawlCommand.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/commands/CrawlCommand.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/commands/CrawlPcCommand.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/commands/CrawlPcCommand.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/Crawler.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/Crawler.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/DOMDocumentWrapper.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/DOMDocumentWrapper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/DOMEvent.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/DOMEvent.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Chart/DataSeries.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Chart/DataSeries.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Chart/DataSeriesValues.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Chart/DataSeriesValues.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Cell/DataType.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Cell/DataType.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Cell/DataValidation.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Cell/DataValidation.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Calculation/Database.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Calculation/Database.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Date.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Date.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/Date.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/Date.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Calculation/DateTime.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Calculation/DateTime.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Hostname/De.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Hostname/De.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Json/Decoder.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Json/Decoder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Reader/DefaultReadFilter.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Reader/DefaultReadFilter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Cell/DefaultValueBinder.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Cell/DefaultValueBinder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/Escher/DgContainer.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/Escher/DgContainer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/Escher/DggContainer.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/Escher/DggContainer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Digits.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Digits.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/CachedObjectStorage/DiscISAM.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/CachedObjectStorage/DiscISAM.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/Excel2007/DocProps.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/Excel2007/DocProps.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/DocumentProperties.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/DocumentProperties.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/DocumentSecurity.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/DocumentSecurity.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/PDF/DomPDF.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/PDF/DomPDF.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/Drawing.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/Drawing.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Worksheet/Drawing.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Worksheet/Drawing.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/Excel2007/Drawing.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/Excel2007/Drawing.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Barcode/Ean13.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Barcode/Ean13.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/JAMA/EigenvalueDecomposition.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/JAMA/EigenvalueDecomposition.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/EmailAddress.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/EmailAddress.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Json/Encoder.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Json/Encoder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Calculation/Engineering.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Calculation/Engineering.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/JAMA/utils/Error.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/JAMA/utils/Error.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Reader/Excel5/Escher.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Reader/Excel5/Escher.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/Escher.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/Escher.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/Excel5/Escher.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/Excel5/Escher.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Reader/Excel2003XML.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Reader/Excel2003XML.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Reader/Excel2007.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Reader/Excel2007.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/Excel2007.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/Excel2007.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Reader/Excel5.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Reader/Excel5.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/Excel5.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/Excel5.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/Excel5.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/Excel5.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Exception.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Exception.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Http/Exception.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Http/Exception.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Http/Client/Exception.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Http/Client/Exception.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Http/Client/Adapter/Exception.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Http/Client/Adapter/Exception.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Json/Exception.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Json/Exception.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Uri/Exception.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Uri/Exception.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Exception.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Exception.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Exception.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Exception.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Calculation/Exception.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Calculation/Exception.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Chart/Exception.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Chart/Exception.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Calculation/ExceptionHandler.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Calculation/ExceptionHandler.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/File/Exists.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/File/Exists.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/File/Extension.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/File/Extension.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Hostname/Fi.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Hostname/Fi.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/File.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/File.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/OLE/PPS/File.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/OLE/PPS/File.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/File/FilesSize.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/File/FilesSize.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Style/Fill.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Style/Fill.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Calculation/Financial.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Calculation/Financial.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Float.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Float.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/Font.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/Font.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Style/Font.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Style/Font.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/Excel5/Font.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/Excel5/Font.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Calculation/FormulaParser.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Calculation/FormulaParser.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Calculation/FormulaToken.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Calculation/FormulaToken.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Calculation/Function.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Calculation/Function.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Calculation/Functions.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Calculation/Functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Reader/Gnumeric.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Reader/Gnumeric.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/GreaterThan.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/GreaterThan.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Reader/HTML.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Reader/HTML.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/HTML.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/HTML.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/HashTable.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/HashTable.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Worksheet/HeaderFooter.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Worksheet/HeaderFooter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Worksheet/HeaderFooterDrawing.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Worksheet/HeaderFooterDrawing.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Hex.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Hex.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Hostname.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Hostname.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Uri/Http.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Uri/Http.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Hostname/Hu.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Hostname/Hu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Cell/Hyperlink.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Cell/Hyperlink.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/CachedObjectStorage/ICache.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/CachedObjectStorage/ICache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/IComparable.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/IComparable.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/IOFactory.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/IOFactory.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Reader/IReadFilter.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Reader/IReadFilter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Reader/IReader.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Reader/IReader.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/RichText/ITextElement.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/RichText/ITextElement.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Cell/IValueBinder.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Cell/IValueBinder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/IWriter.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/IWriter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Identical.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Identical.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/CachedObjectStorage/Igbinary.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/CachedObjectStorage/Igbinary.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/File/ImageSize.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/File/ImageSize.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/InArray.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/InArray.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Int.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Int.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Http/Client/Adapter/Interface.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Http/Client/Adapter/Interface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Interface.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Interface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Hostname/Interface.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Hostname/Interface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Ip.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Ip.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/JAMA/examples/LMQuadTest.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/JAMA/examples/LMQuadTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/JAMA/LUDecomposition.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/JAMA/LUDecomposition.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/JAMA/examples/LagrangeInterpolation.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/JAMA/examples/LagrangeInterpolation.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/JAMA/examples/LagrangeInterpolation2.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/JAMA/examples/LagrangeInterpolation2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Chart/Layout.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Chart/Layout.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Chart/Legend.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Chart/Legend.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/LessThan.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/LessThan.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/JAMA/examples/LevenbergMarquardt.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/JAMA/examples/LevenbergMarquardt.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Hostname/Li.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Hostname/Li.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Loader.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Loader.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Calculation/Logical.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Calculation/Logical.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/models/LoginForm.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/models/LoginForm.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Calculation/LookupRef.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Calculation/LookupRef.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/JAMA/examples/MagicSquareExample.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/JAMA/examples/MagicSquareExample.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Calculation/MathTrig.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Calculation/MathTrig.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/JAMA/utils/Maths.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/JAMA/utils/Maths.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/JAMA/Matrix.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/JAMA/Matrix.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/CachedObjectStorage/Memcache.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/CachedObjectStorage/Memcache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/CachedObjectStorage/Memory.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/CachedObjectStorage/Memory.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Worksheet/MemoryDrawing.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Worksheet/MemoryDrawing.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/CachedObjectStorage/MemoryGZip.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/CachedObjectStorage/MemoryGZip.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/CachedObjectStorage/MemorySerialized.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/CachedObjectStorage/MemorySerialized.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/File/MimeType.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/File/MimeType.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/NamedRange.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/NamedRange.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Hostname/No.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Hostname/No.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/NotEmpty.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/NotEmpty.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/File/NotExists.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/File/NotExists.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Style/NumberFormat.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Style/NumberFormat.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/OLE.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/OLE.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/OLERead.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/OLERead.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Reader/OOCalc.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Reader/OOCalc.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/PDF.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/PDF.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Chart/Renderer/PHP Charting Libraries.txt" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Chart/Renderer/PHP Charting Libraries.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/CachedObjectStorage/PHPTemp.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/CachedObjectStorage/PHPTemp.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/OLE/PPS.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/OLE/PPS.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Worksheet/PageMargins.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Worksheet/PageMargins.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Worksheet/PageSetup.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Worksheet/PageSetup.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/Excel5/Parser.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/Excel5/Parser.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/PasswordHasher.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/PasswordHasher.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Chart/PlotArea.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Chart/PlotArea.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Style/Protection.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Style/Protection.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Worksheet/Protection.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Worksheet/Protection.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Http/Client/Adapter/Proxy.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Http/Client/Adapter/Proxy.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/JAMA/QRDecomposition.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/JAMA/QRDecomposition.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/ReferenceHelper.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/ReferenceHelper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Regex.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Regex.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Registry.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Registry.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/Excel2007/Rels.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/Excel2007/Rels.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Http/Response.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Http/Response.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/RichText.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/RichText.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/OLE/PPS/Root.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/OLE/PPS/Root.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Worksheet/Row.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Worksheet/Row.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Worksheet/RowDimension.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Worksheet/RowDimension.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Worksheet/RowIterator.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Worksheet/RowIterator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Worksheet/AutoFilter/Column/Rule.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Worksheet/AutoFilter/Column/Rule.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/RichText/Run.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/RichText/Run.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/CachedObjectStorage/SQLite.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/CachedObjectStorage/SQLite.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/CachedObjectStorage/SQLite3.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/CachedObjectStorage/SQLite3.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Reader/SYLK.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Reader/SYLK.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/plugins/Scripts.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/plugins/Scripts.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Hostname/Se.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Hostname/Se.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Settings.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Settings.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Worksheet/Drawing/Shadow.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Worksheet/Drawing/Shadow.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Worksheet/SheetView.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Worksheet/SheetView.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/JAMA/SingularValueDecomposition.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/JAMA/SingularValueDecomposition.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/tests/functional/SiteTest.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/tests/functional/SiteTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/File/Size.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/File/Size.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Http/Client/Adapter/Socket.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Http/Client/Adapter/Socket.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/Escher/DgContainer/SpgrContainer/SpContainer.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/Escher/DgContainer/SpgrContainer/SpContainer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/Escher/DgContainer/SpgrContainer.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/Escher/DgContainer/SpgrContainer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Calculation/Token/Stack.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Calculation/Token/Stack.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Calculation/Statistical.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Calculation/Statistical.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/JAMA/examples/Stats.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/JAMA/examples/Stats.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/String.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/String.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/StringLength.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/StringLength.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/Excel2007/StringTable.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/Excel2007/StringTable.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Style.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Style.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/Excel2007/Style.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/Excel2007/Style.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Http/Client/Adapter/Test.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Http/Client/Adapter/Test.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/JAMA/tests/TestMatrix.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/JAMA/tests/TestMatrix.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Calculation/TextData.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Calculation/TextData.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/RichText/TextElement.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/RichText/TextElement.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Reader/Excel2007/Theme.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Reader/Excel2007/Theme.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/Excel2007/Theme.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/Excel2007/Theme.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Chart/Title.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Chart/Title.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/models/TongjiData.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/models/TongjiData.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/models/TongjiType.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/models/TongjiType.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Barcode/UpcA.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/Barcode/UpcA.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/File/Upload.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Validate/File/Upload.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Uri.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/Zend/Uri.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/UserIdentity.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/UserIdentity.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/plugins/WebBrowser.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/plugins/WebBrowser.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/tests/WebTestCase.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/tests/WebTestCase.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/CachedObjectStorage/Wincache.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/CachedObjectStorage/Wincache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/Excel2007/Workbook.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/Excel2007/Workbook.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/Excel5/Workbook.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/Excel5/Workbook.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Worksheet.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Worksheet.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/Excel2007/Worksheet.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/Excel2007/Worksheet.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/Excel5/Worksheet.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/Excel5/Worksheet.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/WorksheetIterator.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/WorksheetIterator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/Excel2007/WriterPart.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/Excel2007/WriterPart.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/XMLWriter.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/XMLWriter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/Excel5/Xf.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/Excel5/Xf.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/ZipArchive.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/ZipArchive.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/ZipStreamWrapper.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/ZipStreamWrapper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/plugins/Scripts/__config.example.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/plugins/Scripts/__config.example.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/JAMA/examples/benchmark.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/JAMA/examples/benchmark.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/trend/bestFitClass.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/trend/bestFitClass.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/js/bootstrap-datepicker.js" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/js/bootstrap-datepicker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/bootstrap.example.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/bootstrap.example.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/tests/bootstrap.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/tests/bootstrap.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/views/layouts/column1.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/views/layouts/column1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/views/layouts/column2.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/views/layouts/column2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/cs/config" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/cs/config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/da/config" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/da/config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/de/config" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/de/config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/en/uk/config" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/en/uk/config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/es/config" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/es/config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/fi/config" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/fi/config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/fr/config" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/fr/config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/hu/config" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/hu/config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/it/config" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/it/config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/nl/config" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/nl/config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/no/config" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/no/config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/pl/config" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/pl/config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/pt/config" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/pt/config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/pt/br/config" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/pt/br/config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/ru/config" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/ru/config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/sv/config" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/sv/config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/tr/config" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/tr/config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/config/console.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/config/console.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/css/datepicker.css" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/css/datepicker.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/plugins/example.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/plugins/example.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/plugins/Scripts/example.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/plugins/Scripts/example.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/trend/exponentialBestFitClass.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/trend/exponentialBestFitClass.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/plugins/Scripts/fix_webroot.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/plugins/Scripts/fix_webroot.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/css/form.css" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/css/form.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Calculation/functionlist.txt" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Calculation/functionlist.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/cs/functions" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/cs/functions" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/da/functions" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/da/functions" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/de/functions" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/de/functions" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/es/functions" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/es/functions" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/fi/functions" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/fi/functions" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/fr/functions" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/fr/functions" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/hu/functions" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/hu/functions" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/it/functions" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/it/functions" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/nl/functions" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/nl/functions" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/no/functions" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/no/functions" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/pl/functions" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/pl/functions" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/pt/functions" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/pt/functions" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/pt/br/functions" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/pt/br/functions" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/ru/functions" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/ru/functions" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/sv/functions" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/sv/functions" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/tr/functions" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/locale/tr/functions" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/PCLZip/gnu-lgpl.txt" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/PCLZip/gnu-lgpl.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/plugins/Scripts/google_login.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/plugins/Scripts/google_login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/css/ie.css" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/css/ie.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/views/site/index.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/views/site/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Chart/Renderer/jpgraph.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Chart/Renderer/jpgraph.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/js/jquery.min.js" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/js/jquery.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/trend/linearBestFitClass.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/trend/linearBestFitClass.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/trend/logarithmicBestFitClass.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/trend/logarithmicBestFitClass.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/PDF/mPDF.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/PDF/mPDF.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/css/main.css" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/views/layouts/main.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/views/layouts/main.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/config/main_config.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/config/main_config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/compat/mbstring.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/compat/mbstring.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/PCLZip/pclzip.lib.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/PCLZip/pclzip.lib.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/phpQueryEvents.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/phpQueryEvents.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/phpQueryObject.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/phpQueryObject.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/tests/phpunit.xml" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/tests/phpunit.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/JAMA/examples/polyfit.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/JAMA/examples/polyfit.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/trend/polynomialBestFitClass.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/trend/polynomialBestFitClass.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/trend/powerBestFitClass.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/trend/powerBestFitClass.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/css/print.css" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/css/print.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/plugins/Scripts/print_source.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/plugins/Scripts/print_source.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/plugins/Scripts/print_websafe.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/components/phpQuery/phpQuery/plugins/Scripts/print_websafe.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/PCLZip/readme.txt" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/PCLZip/readme.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/data/schema.mysql.sql" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/data/schema.mysql.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/data/schema.sqlite.sql" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/data/schema.sqlite.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/css/screen.css" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/css/screen.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/views/site/show.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/views/site/show.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/PDF/tcPDF.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Writer/PDF/tcPDF.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/config/test.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/config/test.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/JAMA/examples/tile.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/JAMA/examples/tile.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/config/tongji.conf" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/config/tongji.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/views/layouts/tongji.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/views/layouts/tongji.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/data/tongji.sql" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/data/tongji.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/data/tongji_type.sql" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/data/tongji_type.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/trend/trendClass.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/extensions/PHPExcel/PHPExcel/Shared/trend/trendClass.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/js/view.js" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/js/view.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/yiic.bat" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/yiic.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/yiic.php" afterPath="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/yiic.php" />
+    </list>
+    <ignored path="mingzhi_tongji.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="mingzhi_tongji" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="MoyuDownloadsCommand.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/commands/MoyuDownloadsCommand.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="345">
+              <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+              <folding>
+                <marker date="1432890185000" expanded="true" signature="512:563" placeholder="insert into ..." />
+                <marker date="1432890185000" expanded="true" signature="512:579" placeholder="insert into ..." />
+                <marker date="1432890185000" expanded="true" signature="512:591" placeholder="insert into ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="moyu.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/views/site/moyu.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="615">
+              <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SiteController.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/controllers/SiteController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.41379312" vertical-offset="2136" max-vertical-offset="2820">
+              <caret line="160" column="8" selection-start-line="160" selection-start-column="8" selection-end-line="160" selection-end-column="8" />
+              <folding>
+                <marker date="1432894821000" expanded="true" signature="6158:6263" placeholder="select downl..moyu_downloads..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tongji.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/views/layouts/tongji.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="390">
+              <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CrawlPcCommand.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/commands/CrawlPcCommand.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="660">
+              <caret line="12" column="64" selection-start-line="12" selection-start-column="64" selection-end-line="12" selection-end-column="64" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/config/main.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="172" max-vertical-offset="1320">
+              <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/views/site/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="157" max-vertical-offset="795">
+              <caret line="46" column="34" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main_config.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/config/main_config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="1335">
+              <caret line="40" column="30" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/tongji.appmarket.zhantai.com" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/commands/haima.php" />
+        <option value="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/runtime/application.log" />
+        <option value="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/commands/CrawlCommand.php" />
+        <option value="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/commands/debug.php" />
+        <option value="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/views/layouts/tongji.php" />
+        <option value="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/commands/MoyuDownloadsCommand.php" />
+        <option value="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/config/main_config.php" />
+        <option value="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/config/main.php" />
+        <option value="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/views/site/search.php" />
+        <option value="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/views/site/moyu.php" />
+        <option value="$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/controllers/SiteController.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpDebugGeneral" xdebug_debug_port="9001" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="805" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mingzhi_tongji" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mingzhi_tongji" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mingzhi_tongji" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mingzhi_tongji" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mingzhi_tongji" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tongji.appmarket.zhantai.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mingzhi_tongji" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mingzhi_tongji" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tongji.appmarket.zhantai.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mingzhi_tongji" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mingzhi_tongji" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tongji.appmarket.zhantai.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mingzhi_tongji" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mingzhi_tongji" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tongji.appmarket.zhantai.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mingzhi_tongji" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mingzhi_tongji" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tongji.appmarket.zhantai.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="runtime" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mingzhi_tongji" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mingzhi_tongji" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tongji.appmarket.zhantai.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mingzhi_tongji" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mingzhi_tongji" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tongji.appmarket.zhantai.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mingzhi_tongji" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mingzhi_tongji" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tongji.appmarket.zhantai.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mingzhi_tongji" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mingzhi_tongji" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tongji.appmarket.zhantai.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="commands" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mingzhi_tongji" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mingzhi_tongji" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tongji.appmarket.zhantai.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mingzhi_tongji" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mingzhi_tongji" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tongji.appmarket.zhantai.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-env-vars>false</pass-parent-env-vars>
+      <envs />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <myIsUseDefaultProxy>true</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7beb5fd6-eb43-4981-b3c1-386f9956db45" name="Default" comment="" />
+      <created>1427077419721</created>
+      <option name="number" value="Default" />
+      <updated>1427077419721</updated>
+    </task>
+    <task id="LOCAL-00001" summary="应用采集">
+      <created>1428542796162</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1428542796162</updated>
+    </task>
+    <task id="LOCAL-00002" summary="应用采集 FN">
+      <created>1428574571240</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1428574571240</updated>
+    </task>
+    <task id="LOCAL-00003" summary="应用采集">
+      <created>1428891281382</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1428891281382</updated>
+    </task>
+    <task id="LOCAL-00004" summary="应用采集 ky FN">
+      <created>1428996557459</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1428996557459</updated>
+    </task>
+    <task id="LOCAL-00005" summary="每够100个数据 插入到数据库">
+      <created>1431416920256</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1431416920256</updated>
+    </task>
+    <task id="LOCAL-00006" summary="每够100个数据 插入到数据库&#10; &quot;-&gt;'">
+      <created>1431417983287</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1431417983287</updated>
+    </task>
+    <task id="LOCAL-00007" summary="墨语书法下载量采集">
+      <created>1432882701111</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1432882701111</updated>
+    </task>
+    <task id="LOCAL-00008" summary="墨语书法下载量采集数据表">
+      <created>1432883054807</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1432883054807</updated>
+    </task>
+    <task id="LOCAL-00009" summary="墨语书法下载量采集数据 去除打印">
+      <created>1432883540576</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1432883540576</updated>
+    </task>
+    <task id="LOCAL-00010" summary="墨语书法下载量采集数据 加查询">
+      <created>1432894574876</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1432894574876</updated>
+    </task>
+    <task id="LOCAL-00011" summary="墨语书法下载量采集数据 加查询">
+      <created>1432894869185</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1432894869185</updated>
+    </task>
+    <task id="LOCAL-00012" summary="墨语书法下载量采集数据 加查询">
+      <created>1432894901979</created>
+      <option name="number" value="00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1432894901979</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="805" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3104435" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32831737" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32959327" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28330997" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="应用采集 FN" />
+    <MESSAGE value="应用采集" />
+    <MESSAGE value="应用采集 ky FN" />
+    <MESSAGE value="每够100个数据 插入到数据库" />
+    <MESSAGE value="每够100个数据 插入到数据库&#10; &quot;-&gt;'" />
+    <MESSAGE value="墨语书法下载量采集" />
+    <MESSAGE value="墨语书法下载量采集数据表" />
+    <MESSAGE value="墨语书法下载量采集数据 去除打印" />
+    <MESSAGE value="墨语书法下载量采集数据 加查询" />
+    <option name="LAST_COMMIT_MESSAGE" value="墨语书法下载量采集数据 加查询" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/commands/debug.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2246" max-vertical-offset="4020">
+          <caret line="167" column="0" selection-start-line="167" selection-start-column="0" selection-end-line="167" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/config/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="975" max-vertical-offset="1320">
+          <caret line="65" column="17" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/commands/haima.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="705" max-vertical-offset="8475">
+          <caret line="109" column="17" selection-start-line="109" selection-start-column="17" selection-end-line="109" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/commands/CrawlCommand.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="6356" max-vertical-offset="7035">
+          <caret line="432" column="17" selection-start-line="432" selection-start-column="17" selection-end-line="432" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/controllers/SiteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="2310">
+          <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+          <folding>
+            <marker date="1432894821000" expanded="true" signature="6158:6263" placeholder="select downl..moyu_downloads..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/runtime/application.log">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="16935" max-vertical-offset="17025">
+          <caret line="1129" column="0" selection-start-line="1129" selection-start-column="0" selection-end-line="1129" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/web/CWebApplication.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1890" max-vertical-offset="8190">
+          <caret line="140" column="24" selection-start-line="140" selection-start-column="24" selection-end-line="140" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/commands/debug.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2246" max-vertical-offset="4020">
+          <caret line="167" column="0" selection-start-line="167" selection-start-column="0" selection-end-line="167" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/config/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="975" max-vertical-offset="1320">
+          <caret line="65" column="17" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/commands/haima.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="705" max-vertical-offset="8475">
+          <caret line="109" column="17" selection-start-line="109" selection-start-column="17" selection-end-line="109" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/commands/CrawlCommand.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6600">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/controllers/SiteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="2310">
+          <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+          <folding>
+            <marker date="1432894821000" expanded="true" signature="6158:6263" placeholder="select downl..moyu_downloads..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/runtime/application.log">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="16215" max-vertical-offset="16305">
+          <caret line="1081" column="0" selection-start-line="1081" selection-start-column="0" selection-end-line="1081" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/web/CWebApplication.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1890" max-vertical-offset="8190">
+          <caret line="140" column="24" selection-start-line="140" selection-start-column="24" selection-end-line="140" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/commands/debug.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3341" max-vertical-offset="4020">
+          <caret line="261" column="0" selection-start-line="261" selection-start-column="0" selection-end-line="261" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/config/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="975" max-vertical-offset="1320">
+          <caret line="65" column="17" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/commands/haima.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="705" max-vertical-offset="8475">
+          <caret line="109" column="17" selection-start-line="109" selection-start-column="17" selection-end-line="109" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/commands/CrawlCommand.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5727" max-vertical-offset="6600">
+          <caret line="392" column="59" selection-start-line="392" selection-start-column="59" selection-end-line="392" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/controllers/SiteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2310">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1432894821000" expanded="true" signature="6158:6263" placeholder="select downl..moyu_downloads..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/runtime/application.log">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="16005" max-vertical-offset="16095">
+          <caret line="1067" column="0" selection-start-line="1067" selection-start-column="0" selection-end-line="1067" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/web/CWebApplication.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1890" max-vertical-offset="8190">
+          <caret line="140" column="24" selection-start-line="140" selection-start-column="24" selection-end-line="140" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/commands/debug.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3341" max-vertical-offset="4020">
+          <caret line="261" column="0" selection-start-line="261" selection-start-column="0" selection-end-line="261" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/config/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="975" max-vertical-offset="1320">
+          <caret line="65" column="17" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/commands/haima.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="7155">
+          <caret line="65" column="12" selection-start-line="65" selection-start-column="12" selection-end-line="65" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/commands/CrawlCommand.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6360">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/commands/debug.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="767" max-vertical-offset="1440">
+          <caret line="90" column="1" selection-start-line="90" selection-start-column="1" selection-end-line="90" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/config/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="975" max-vertical-offset="1320">
+          <caret line="65" column="17" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/commands/haima.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1208" max-vertical-offset="7020">
+          <caret line="100" column="330" selection-start-line="100" selection-start-column="324" selection-end-line="100" selection-end-column="330" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/commands/CrawlCommand.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6585">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/config/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="975" max-vertical-offset="1320">
+          <caret line="65" column="17" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/commands/haima.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="705" max-vertical-offset="8475">
+          <caret line="109" column="17" selection-start-line="109" selection-start-column="17" selection-end-line="109" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/web/CWebApplication.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1890" max-vertical-offset="8190">
+          <caret line="140" column="24" selection-start-line="140" selection-start-column="24" selection-end-line="140" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/runtime/application.log">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="53010" max-vertical-offset="53100">
+          <caret line="3534" column="0" selection-start-line="3534" selection-start-column="0" selection-end-line="3534" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/js/highcharts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4695">
+          <caret line="45" column="46" selection-start-line="45" selection-start-column="46" selection-end-line="45" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/views/layouts/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="975">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/commands/debug.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="270">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/models/TongjiType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-58.75" vertical-offset="0" max-vertical-offset="1680">
+          <caret line="94" column="20" selection-start-line="94" selection-start-column="20" selection-end-line="94" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="427">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/views/site/show.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="210">
+          <caret line="6" column="8" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/commands/CrawlCommand.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.331565" vertical-offset="6175" max-vertical-offset="8580">
+          <caret line="420" column="40" selection-start-line="420" selection-start-column="37" selection-end-line="420" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/models/TongjiData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.916667" vertical-offset="1349" max-vertical-offset="1785">
+          <caret line="109" column="100" selection-start-line="109" selection-start-column="100" selection-end-line="109" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/views/layouts/tongji.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="390">
+          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/config/main_config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="1335">
+          <caret line="40" column="30" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/js/view.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="662">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/config/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="172" max-vertical-offset="1320">
+          <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/views/site/search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18808778" vertical-offset="0" max-vertical-offset="638">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/views/site/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="157" max-vertical-offset="795">
+          <caret line="46" column="34" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/commands/CrawlPcCommand.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="660">
+          <caret line="12" column="64" selection-start-line="12" selection-start-column="64" selection-end-line="12" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/commands/MoyuDownloadsCommand.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="345">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+          <folding>
+            <marker date="1432890185000" expanded="true" signature="512:563" placeholder="insert into ..." />
+            <marker date="1432890185000" expanded="true" signature="512:579" placeholder="insert into ..." />
+            <marker date="1432890185000" expanded="true" signature="512:591" placeholder="insert into ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/views/site/moyu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="615">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tongji.appmarket.zhantai.com/protected/controllers/SiteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41379312" vertical-offset="2136" max-vertical-offset="2820">
+          <caret line="160" column="8" selection-start-line="160" selection-start-column="8" selection-end-line="160" selection-end-column="8" />
+          <folding>
+            <marker date="1432894821000" expanded="true" signature="6158:6263" placeholder="select downl..moyu_downloads..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
